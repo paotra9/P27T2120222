@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P27T2120222</string>
+    <string name="Titulo">OPERACIONES BASICAS</string>
+    <string name="Enum1">Ingresa el primer numero 1</string>
+    <string name="Enum2">Ingresa el segundo numero 2</string>
+    <string name="resultado">El resultado es:</string>
+    <string name="Place1">Escribe aqui el numero1</string>
+    <string name="Place2">Escribe aqui el numero2</string>
+    <string name="letrobtn">Calcular</string>
+</resources>
